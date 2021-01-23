@@ -4,7 +4,6 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently working as a Magento Developer
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
 - 🎓 &nbsp; Majored in Analysis and Developer of Systems
 - 🤘  &nbsp; Rock n' Roll and Heavy metal lover 
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress
