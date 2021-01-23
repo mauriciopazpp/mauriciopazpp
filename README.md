@@ -10,7 +10,7 @@
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress
 - 🌐 &nbsp; Working for companies all over the world :D
 - 🇧🇷 &nbsp; Brazil
-- 🇨🇦 &nbsp; Canadá
+- 🇨🇦 &nbsp; Canada
 - 🇺🇸 &nbsp; USA
 
 <h3>🛠 Some Tech Stack</h3>   
