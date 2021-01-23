@@ -7,7 +7,6 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
 - 🎓 &nbsp; Majored in Analysis and Developer of Systems
 - 🤘  &nbsp; Rock n' Roll and Heavy metal lover 
-- ✏️ &nbsp; I love drawing
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress
 - 🌐 &nbsp; Working for companies all over the world :D
 - 🇧🇷 &nbsp; Brazil
@@ -19,10 +18,10 @@
 - 💻 &nbsp; PHP | JavaScript | Bash Script | Java  
 - 💻 &nbsp; VueJS | React Native | CSS, LESS, SASS | Bootstrap  
 - 💻 &nbsp; Magento 2 | Big Commerce | Shopify  
-- 💻 &nbsp; Laravel | Zend Framework | Yii  
+- 💻 &nbsp; Laravel | Zend Framework | Yii   
 - 💻 &nbsp; BI! | QlikSense | QlikView  
 - 💻 &nbsp; Wordpress | HugoJS  
-- 💻 &nbsp; Photoshop  
+- 💻 &nbsp; Photoshop 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciopazpp&layout=compact&text_color=daf7dc&bg_color=151515)](#)
 
