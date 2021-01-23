@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently working as a Magento Developer
 - 🎓 &nbsp; Majored in Analysis and Developer of Systems
 - 🤘  &nbsp; Rock n' Roll and Heavy metal lover 
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress
+- ☕ &nbsp; A perfect cup of coffee can be the ultimate solution for any stress
 - 🌐 &nbsp; Working for companies all over the world :D
 - 🇧🇷 &nbsp; Brazil
 - 🇨🇦 &nbsp; Canada
