@@ -15,15 +15,15 @@
 - 🇺🇸 &nbsp; USA
 - So... Welcome!
 
-<h3>🛠 Some Tech Stack</h3>
-- 💻 &nbsp; PHP | JavaScript | Bash Script | Java
-- 💻 &nbsp; VueJS | React Native | CSS, LESS, SASS | Bootstrap 
-- 💻 &nbsp; Magento 2 | Big Commerce | Shopify
-- 💻 &nbsp; Laravel | Zend Framework | Yii
-- 💻 &nbsp; BI! | QlikSense | QlikView
-- 💻 &nbsp; Wordpress | HugoJS 
-- 💻 &nbsp; Photoshop
-
+<h3>🛠 Some Tech Stack</h3>   
+- 💻 &nbsp; PHP | JavaScript | Bash Script | Java  
+- 💻 &nbsp; VueJS | React Native | CSS, LESS, SASS | Bootstrap  
+- 💻 &nbsp; Magento 2 | Big Commerce | Shopify  
+- 💻 &nbsp; Laravel | Zend Framework | Yii  
+- 💻 &nbsp; BI! | QlikSense | QlikView  
+- 💻 &nbsp; Wordpress | HugoJS  
+- 💻 &nbsp; Photoshop  
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciopazpp&layout=compact&text_color=daf7dc&bg_color=151515)](#)
 
 
