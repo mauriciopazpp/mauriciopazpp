@@ -1,7 +1,7 @@
 <h2> Hey there! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="15"> I'm Mauricio Paz</h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> About Me </h3>
 
 - 🔭 &nbsp; I’m currently working as a Magento Developer
 - 🎓 &nbsp; Majored in Analysis and Developer of Systems
@@ -12,7 +12,7 @@
 - 🇨🇦 &nbsp; Canada
 - 🇺🇸 &nbsp; USA
 
-<h3>🛠 Some Tech Stack</h3>   
+<h3> Some Tech Stack</h3>   
 
 - PHP | JavaScript | Bash Script | Java  
 
