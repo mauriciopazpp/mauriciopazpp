@@ -14,19 +14,19 @@
 
 <h3>🛠 Some Tech Stack</h3>   
 
-- 💻 &nbsp; PHP | JavaScript | Bash Script | Java  
+- PHP | JavaScript | Bash Script | Java  
 
-- 💻 &nbsp; VueJS | React Native | CSS, LESS, SASS | Bootstrap  
+-  VueJS | React Native | CSS, LESS, SASS | Bootstrap  
 
-- 💻 &nbsp; Magento 2 | Big Commerce | Shopify  
+- Magento 2 | Big Commerce | Shopify  
 
-- 💻 &nbsp; Laravel | Zend Framework | Yii
+- Laravel | Zend Framework | Yii
 
-- 💻 &nbsp; BI! | QlikSense | QlikView 
+- BI! | QlikSense | QlikView 
 
-- 💻 &nbsp; Wordpress | HugoJS  
+- Wordpress | HugoJS  
 
-- 💻 &nbsp; Photoshop 
+- Photoshop 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciopazpp&layout=compact&text_color=daf7dc&bg_color=151515)](#)
 
