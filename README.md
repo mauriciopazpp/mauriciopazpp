@@ -12,7 +12,6 @@
 - 🇧🇷 &nbsp; Brazil
 - 🇨🇦 &nbsp; Canadá
 - 🇺🇸 &nbsp; USA
-- So... Welcome!
 
 <h3>🛠 Some Tech Stack</h3>   
 
